@@ -1,0 +1,6 @@
+/home/static-dragon/Projects/Maxixie/Maxixie/bin/Debug/Maxixie.exe
+/home/static-dragon/Projects/Maxixie/Maxixie/bin/Debug/Maxixie.pdb
+/home/static-dragon/Projects/Maxixie/Maxixie/obj/x86/Debug/Maxixie.csprojResolveAssemblyReference.cache
+/home/static-dragon/Projects/Maxixie/Maxixie/obj/x86/Debug/Maxixie.csproj.CoreCompileInputs.cache
+/home/static-dragon/Projects/Maxixie/Maxixie/obj/x86/Debug/Maxixie.exe
+/home/static-dragon/Projects/Maxixie/Maxixie/obj/x86/Debug/Maxixie.pdb

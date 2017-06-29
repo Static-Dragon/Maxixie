@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{85F494A9-CBE3-4721-8C61-157E41661D91}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Maxixie/MainWindow.cs">
+    <Files>
+      <File FileName="Maxixie/Program.cs" Line="23" Column="1" />
+      <File FileName="Maxixie/MainWindow.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Maxixie PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
